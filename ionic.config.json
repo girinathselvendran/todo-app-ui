@@ -1,0 +1,7 @@
+{
+  "name": "react_ioni_cpropject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
